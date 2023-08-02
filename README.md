@@ -3,7 +3,7 @@ A Simple Program That Makes Making Python Virtual Environments Easy.
 
 
 ## How To Use
-> 1) Launch .EXE
+> 1) Launch .EXE or run .py file from source code
 > 2) Select the path that you would like the virtual environment to be created
 > 3) Click "Create Python Virtual Environment!"
 > 4) Wait for the virtual environment to be created (Application Will Appear Unresponsive Until Complete)
