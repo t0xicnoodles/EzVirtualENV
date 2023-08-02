@@ -18,4 +18,4 @@ ENJOY!
 This program is a simple open-source program that I created. If you'd like to take a look at the source code and improve on it (or make fun of it), you can!
 Also, the .exe was compiled using auto-py-to-exe.
 
-# Download [GitHub Pages](https://pages.github.com/)
+# [Download](https://github.com/t0xicnoodles/EzVirtualENV/archive/refs/heads/main.zip)https://github.com/t0xicnoodles/EzVirtualENV/archive/refs/heads/main.zip)
