@@ -1,1 +1,1 @@
-"C:\Users\danit\Desktop\Coding Folder\Unfinished Projects\easyVirtualENVManager\app\Version 0.3.0\Source Code\virtualEnv\Scripts\activate.bat" & cmd /k
+"virtualEnv\Scripts\activate.bat" & cmd /k
