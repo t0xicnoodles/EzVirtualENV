@@ -13,3 +13,6 @@ Then the virtual environment will be created in the path you selected, along wit
 
 After that you are free to use the virtual environment.
 ENJOY!
+
+##About this program
+This program is a simple open-source program that I created. If you'd like to take a look at the source code and improve on it (or make fun of it), you can!
