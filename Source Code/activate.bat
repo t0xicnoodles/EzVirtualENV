@@ -1,1 +1,0 @@
-"virtualEnv\Scripts\activate.bat" & cmd /k
